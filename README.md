@@ -1,2 +1,5 @@
 # H-ScrollView-Picker-SwiftUI
-Horizontal ScrollView - MVVM - SwiftUI 
+SwiftUI
+Horizontal ScrollView with MVVM patter  
+Image Picker with @State for refreshing Views
+Xcode 12 - iOS 14
